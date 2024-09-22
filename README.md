@@ -51,7 +51,7 @@
  monitoring. Individual reports can be parsed by export session ID (column A) or timestamp
  (column B). Variation between output represents use of different types of Fitbit trackers and
  individual tracking behaviors / preferences.
- Business scenario
+ # Business scenario
  There are various business problems to which the Analytic team of WeFit have to provide the
  solution. In this case study we will look at such scenarios and try to provide the solution for these
  problems.
