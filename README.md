@@ -1,10 +1,9 @@
 # Analyze-Fitbit-fitness-tracker
 
-
- Motive
+# Motive
  Analyze Fitbit fitness tracker data to deliver marketing and business solutions to WeFit and its
  subsidiaries
- Company Background
+# Company Background
  WeFit was founded by a group of Indian friends, Rohit and Anjali Shah, who were passionate
  about fitness and wanted to create a supportive, welcoming community for people of all fitness
  levels. They started out as a small gym or fitness studio in a bustling city neighborhood, offering
@@ -38,7 +37,7 @@
  Use the Fitbit fitness tracker data to determine some smart device usage trends, how customers
  can use them, and how they can affect marketing plans so that the Analytic team of WeFit can
  offer business solutions and add new clients.
-Data Used
+# Data Used
  The data source used for this case study is FitBit Fitness Tracker Data This dataset was
  downloaded from Kaggle where it was uploaded by Möbius.
  The dataset was made available by Möbius to Kaggle.com under the terms of the CC0: Public
